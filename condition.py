@@ -1,8 +1,8 @@
-x = 28
+x = 0
 
 if x>0:
     print("x is positive")
-if x<0:
+elif x<0:
     print("x is negative")
 else:
     print("x is zero")
