@@ -1,4 +1,4 @@
-x = 0
+x = -25
 
 if x>0:
     print("x is positive")
